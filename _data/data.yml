@@ -7,47 +7,47 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mohammad Armoun
+    tagline: Back-End/Embedded Developer, Data Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: mohamad.armoun@gmail.com
+    phone: 01771801852
+    timezone: Europa/Berlin Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website:
+    linkedin: mohammad-armoun-91470190
+    xing: Mohammad_Armoun
+    github: EmbeddedAndMore
+    telegram: MohamadArmoun# add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 
+    stack-overflow: 4527628/m-armoun # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://embeddedandmore.github.io/online-cv/print #http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Persian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: German
+          level: good enough
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Sweeming
           link:
 
-        - item: Snowboarding
+        - item: Snooker
           link:
 
         - item: Cooking
@@ -56,166 +56,146 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I Started my careed as an Embedded software developer focusing in real-time 
+      application on ARM-based micro processor. Embedded softwares that i developed mostly 
+      got engaged with high level softwares to either provide monitoing or controlling
+      on the embedded device and as a result, developing those softwares were became part of my job too.
+      These days i work mostly as data engineer on distributed AI-based software where i develope software 
+      for every component of the system. Backend development, Data aggregation, preprocessing and Firmware for embedded devices
+      are part of my daily job.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Computer Engineering
+        university: Duisburg-Essen university
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          - Focusing on Intelligent networked system
+          - Thesis: 3D pedestrian tracking use visual features.
+      - degree: BSc in IT
+        university: QIAU
+        time: 2012 - 2015
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Focusing on robotics, I completed my studies in 3.5 years instead of 4, while working full-time at the university's MRl (Mechatronics Research Laboratory) as a researcher.
+            - Thesis: Developing online taxi path planing and management system.
+            - Design and develope real-time flight controller as part of research in MRL.
+            - Scalable battery management system as part of research in MRL.
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software developer
+        time: Nov 2022 - Present
+        company: avodaq AG, Hamburg/Munich
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
+          Design and implement different web applications.
+            - Ise server manager
+            - Online healthcare meeting
+            - FastApi
+      - role: Data Engineer
         time: 2014 - 2015
-        company: Google, London
+        company: fabforce GmbH & Co. KG, Dortmund
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          Data aggregation, Preprocessing and real-time processing for improving operation of industrial machines
+            - S7, MQTT, OPC-UA, Serial
+            - Dask, Celery, Numpy, Scipy, Flask, Python, C++, PyBind11
+      - role: Software developer
         time: 2012 - 2014
-        company: Amazon, London
+        company: EIDO Data, Duisburg
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Providing ML tool for visualization, Preprocessing and Model management tool specialized for metalorgy applications.
+            - Celery, Flask, Dask, Numpy, WPF
+
+      - role: Software developer
+        time: 2012 - 2014
+        company: PardikElectronics, Tehran
+        details: |
+          Video management system for large-scale survailance systems including ML powered analysis.
+            - C++, Boost, WPF, WCF
+
+      - role: Embedded/Desktop Software developer
+        time: 2012 - 2014
+        company: Dowranset, Qazvin
+        details: |
+          Flight controller specialized for aerial survailance. 
+            - C, C++, Qt, STM32-F4, Real-time, FreeRTOS, chibiOS
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here are list of my freelance and side-projects.
     assignments:
-      - title: Velocity
+      - title: Building Facade LED controller
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Power LED array controller for buildings of a large complex. controllable using Wifi and using Desktop/Mobile app. multiple lighting scenarios including music reactivation."
 
-      - title: DevStudio
+      - title: Full-Feature smarthome prototype.
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Provide different scensing and actuationg module for proof of concepts. inclusinf TVOC, Motion sensing, Water leak, door and window sensor, smart doorbell, smart switch, plugs, blind, curtain and IR media controller. this projected implemented with different wireless and wired protocol including KNX, CAN-bus, Wifi, Zigbee, Z-Wave, BLE"
 
-      - title: Tempo
+      - title: Proof of concept for an Edge devide.
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "AI-based analysis and compression of brain signal using FPGA "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python, Django, Flask, FastApi 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Modern C++ 
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Embeedded Developement
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: .Net(Core)
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Software architecture
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
