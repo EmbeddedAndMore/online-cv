@@ -14,13 +14,13 @@ sidebar:
     # Sidebar links
     email: mohamad.armoun@gmail.com
     phone: 01771801852
-    timezone: Europa/Berlin Timezone
+    timezone: CEST
     citizenship:
     website:
     linkedin: mohammad-armoun-91470190
     xing: Mohammad_Armoun
     github: EmbeddedAndMore
-    telegram: MohamadArmoun# add your nickname without '@' sign
+    telegram: MohamadArmoun # add your nickname without '@' sign
     gitlab:
     bitbucket:
     twitter: 
@@ -56,7 +56,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I Started my careed as an Embedded software developer focusing in real-time 
+      I started my careed as an Embedded software developer focusing in real-time 
       application on ARM-based micro processor. Embedded softwares that i developed mostly 
       got engaged with high level softwares to either provide monitoing or controlling
       on the embedded device and as a result, developing those softwares were became part of my job too.
@@ -92,28 +92,28 @@ experiences:
             - Online healthcare meeting
             - FastApi
       - role: Data Engineer
-        time: 2014 - 2015
+        time: Mar 2021 - Oct 2022
         company: fabforce GmbH & Co. KG, Dortmund
         details: |
           Data aggregation, Preprocessing and real-time processing for improving operation of industrial machines
             - S7, MQTT, OPC-UA, Serial
             - Dask, Celery, Numpy, Scipy, Flask, Python, C++, PyBind11
       - role: Software developer
-        time: 2012 - 2014
+        time: Jul 2019 - Jan 2021
         company: EIDO Data, Duisburg
         details: |
           Providing ML tool for visualization, Preprocessing and Model management tool specialized for metalorgy applications.
             - Celery, Flask, Dask, Numpy, WPF
 
       - role: Software developer
-        time: 2012 - 2014
-        company: PardikElectronics, Tehran
+        time: Jan 2018 - May 2019
+        company: Pardik Electronic, Tehran
         details: |
           Video management system for large-scale survailance systems including ML powered analysis.
             - C++, Boost, WPF, WCF
 
       - role: Embedded/Desktop Software developer
-        time: 2012 - 2014
+        time: Jan 2014 - Dec 2017
         company: Dowranset, Qazvin
         details: |
           Flight controller specialized for aerial survailance. 
