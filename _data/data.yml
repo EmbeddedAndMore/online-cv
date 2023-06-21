@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Mohammad Armoun
     tagline: Back-End/Embedded Developer, Data Engineer
-    avatar: linkedin_img.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: linkedin_img.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mohamad.armoun@gmail.com
