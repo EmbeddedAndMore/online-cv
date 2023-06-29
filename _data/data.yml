@@ -90,20 +90,20 @@ experiences:
           Design and implement different web applications.
             - Ise server manager
             - Online healthcare meeting
-            - FastApi
+            - Apache Kafka, Storm, Airflow, MySql, MongoDB, FastApi, Pandas, Numpy
       - role: Data Engineer
         time: Mar 2021 - Oct 2022
         company: fabforce GmbH & Co. KG, Dortmund
         details: |
           Data aggregation, Preprocessing and real-time processing for improving operation of industrial machines
             - S7, MQTT, OPC-UA, Serial
-            - Dask, Celery, Numpy, Scipy, Flask, Python, C++, PyBind11
+            - Dask, Prefect, Celery, Numpy, Scipy, Scikit-learn, Flask, Python, C++, PyBind11,, Streamz, Huey
       - role: Software developer
         time: Jul 2019 - Jan 2021
         company: EIDO Data, Duisburg
         details: |
           Providing ML tool for visualization, Preprocessing and Model management tool specialized for metalorgy applications.
-            - Celery, Flask, Dask, Numpy, WPF
+            - Celery, Flask, Numpy, Pandas, Scikit-learn, WPF
 
       - role: Software developer
         time: Jan 2018 - May 2019
