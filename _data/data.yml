@@ -124,6 +124,10 @@ projects:
     intro: >
       Here are list of my freelance and side-projects.
     assignments:
+      - title: Medical Imaging report manager.
+        link: "#hook"
+        tagline: "AI assisted report generation with connecting directly to Ultrasound, Colonoscope and Endoscopy devices and also DICOM(and/or HIS) to generated report."
+
       - title: Building Facade LED controller
         link: "#hook"
         tagline: "Power LED array controller for buildings of a large complex. controllable using Wifi and using Desktop/Mobile app. multiple lighting scenarios including music reactivation."
